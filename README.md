@@ -7,7 +7,7 @@
 1. 登录 GitHub，打开本仓库，点击右上角 **Fork**，再点击 **Create fork**，创建个人副本。
 2. 在自己的副本里点击 **Add file → Upload files**，上传作业文件。将整理好的 `学号-姓名` 文件夹拖入仓库根目录的上传区域。
 3. 确认文件路径和内容，填写提交说明并点击 **Commit changes**。
-4. 点击 **Contribute → Open pull request**。确认目标仓库为 `wang-h/data-ming-and-knowledge-processing-2026-task`，目标分支为 `main`，再点击 **Create pull request**。
+4. 点击 **Contribute → Open pull request**。确认目标仓库为 `hint-lab/data-ming-and-knowledge-processing-2026-task`，目标分支为 `main`，再点击 **Create pull request**。
 5. 打开 PR 的 **Files changed**，确认作业文件和目录正确，保留 PR 链接。需要补交或修正时，在自己的副本中更新同一分支，原 PR 会自动更新。
 
 ## 作业目录
